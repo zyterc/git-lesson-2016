@@ -6,3 +6,5 @@ A repository only for the purpose of learning git in the 2016 season
 - Owen Hughes
 - Robby Pahl
 - Caleb Jones' Evil Twin
+- Pranav Suresh
+- Richard Xu 
